@@ -14,7 +14,7 @@
 
 ## 2. 🧠 Advantages of DBMS – Mind Map
 
-![DBMS Advantages Mind Map](mindmap.png)
+uploaded on rep
 
 ### Key Benefits:
 - **Security** – Role-based access control and user permissions  
